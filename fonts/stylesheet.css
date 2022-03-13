@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Commodore 64 Pixeled';
+    src: url('Commodore64Pixeled.woff2') format('woff2'),
+        url('Commodore64Pixeled.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
