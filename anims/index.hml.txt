@@ -1,0 +1,224 @@
+<html>
+<body style="background-color:#000000;">
+<head>
+<title>ANIMS</title>
+<br>
+<img src="1-pyorre.gif" width="320" height="200">
+<img src="1-pyorre-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Pyorre - 20 framea</font>
+<br>
+<br>
+<br>
+<img src="2-metapaa.gif" width="320" height="200">
+<img src="2-metapaa-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Metapaa - 20 framea</font>
+<br>
+<br>
+<br>
+<img src="3-kallopaa.gif" width="320" height="200">
+<img src="3-kallopaa-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Kallopaa - 20 framea</font>
+<br>
+<br>
+<br>
+<img src="4-elektroni.gif" width="320" height="200">
+<img src="4-elektroni-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Elektroni - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="5-musta-aukko.gif" width="320" height="200">
+<br>
+<font color="white">Musta-aukko 16 framea</font>
+<br>
+<br>
+<br>
+<img src="7-valot.gif" width="320" height="200">
+<img src="7-valot-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Valot - 8 framea</font>
+<br>
+<br>
+<br>
+<img src="8-plasma.gif" width="320" height="200">
+<br>
+<font color="white">Plasma - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="9-metallisielu.gif" width="320" height="200">
+<img src="9-metallisielu-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Metallisielu - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="10-kallokurimus-2.gif" width="320" height="200">
+<br>
+<font color="white">Kallokurimus - 20 framea</font>
+<br>
+<br>
+<br>
+<img src="11-sokaisevavalo.gif" width="320" height="200">
+<br>
+<font color="white">Sokaiseva valo - 6 framea</font>
+<br>
+<br>
+<br>
+<img src="13-savukallo.gif" width="320" height="200">
+<br>
+<font color="white">Savukallo - 16 framea</font>
+<br>
+<br>
+<br>
+<img src="14-valopallo.gif" width="320" height="200">
+<br>
+<font color="white">Valopallo - 6 framea</font>
+<br>
+<br>
+<br>
+<img src="15-jumalankadet.gif" width="320" height="200">
+<br>
+<font color="white">Jumalan kadet - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="16-valotusaika.gif" width="320" height="200">
+<img src="16-valotusaika-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Valotusaika - 16 framea</font>
+<br>
+<br>
+<img src="17-sahkokallo.gif" width="320" height="200">
+<br>
+<font color="white">Sahkokallo - 16 framea</font>
+<br>
+<br>
+<br>
+<img src="18-musta-aukkokallo.gif" width="320" height="200">
+<br>
+<font color="white">Musta-aukko kallo - 16 framea</font>
+<br>
+<br>
+<br>
+<img src="19-vertikaalinenhairio.gif" width="320" height="200">
+<br>
+<font color="white">Vertikaalinen hairio - 6 framea</font>
+<br>
+<br>
+<br>
+<img src="20-valonnopeus.gif" width="320" height="200">
+<br>
+<font color="white">Valonnopeus 12 framea</font>
+<br>
+<br>
+<br>
+<img src="21-hairiopallo.gif" width="320" height="200">
+<img src="21-hairiopallo-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Hairiopallo - 6 framea</font>
+<br>
+<br>
+<br>
+<img src="22-piikkipallo.gif" width="320" height="200">
+<br>
+<font color="white">Piikkipallo - 8 framea</font>
+<br>
+<br>
+<br>
+<img src="23-rajahdys.gif" width="320" height="200">
+<br>
+<font color="white">Rajahdys - 8 framea</font>
+<br>
+<br>
+<br>
+<img src="24-viipaloitukallo.gif" width="320" height="200">
+<br>
+<font color="white">Vaiipaloitu kallo - 8 framea</font>
+<br>
+<br>
+<br>
+<img src="25-maisema.gif" width="320" height="200">
+<img src="25-maisema-glitch.gif" width="320" height="200">
+<br>
+<font color="white">Maisema - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="26-pallopallot.gif" width="320" height="200">
+<br>
+Pallopallot - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="27-kallonaama.gif" width="320" height="200">
+<br>
+<font color="white">Kallonaama - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="28-rihmastoyksi.gif" width="320" height="200">
+<br>
+<font color="white">Rihmasto yksi - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="29-rihmastokaksi.gif" width="320" height="200">
+<br>
+<font color="white">Rihmasto kaksi - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="30-kasvusto-2.gif" width="320" height="200">
+<br>
+<font color="white">Kasvusto - 12 framea</font>
+<br>
+<br>
+<br>
+<img src="31-hairiot.gif" width="320" height="200">
+<br>
+<font color="white">Hairiot - 9 framea</font>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
